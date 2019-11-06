@@ -1,5 +1,5 @@
 ---
-title: About Elizabeth
+title: Hello, World!
 author: ''
 date: '2019-11-05'
 slug: about-elizabeth
@@ -7,8 +7,8 @@ categories: []
 tags: []
 ---
 
-Elizabeth is currently a Research Computational Biologist Postdoc with the USDA where she is applying machine learning techniques to understand the relationship among various clinical markers of health, the gut microbiome, dietary intake, and other lifestyle factors in a cohort of healthy US adults. She hopes to learn how these data may predict different phenotypes or metabotypes. She is working under the supervision of Dr. Danielle Lemay.
+Welcome to the web page of Elizabeth Chin! 
 
-She studied Food Science at the University of California, Davis, completing her PhD with Dr. Carolyn Slupsky. Her dissertation research used metabolomics (1H NMR), proteomics (MS/MS), and transcriptomics (RNA-seq) to identify metabolism changes in citrus trees infected with the bacterial pathogen associated with Citrus Greening Disease.
+I am currently a Research Computational Biologist Postdoc with the USDA in the lab of Danielle Lemay, where I am applying machine learning techniques to human nutrition research. You can read more [about me here.](https://ebeth-chin.github.io/top/about/) Please check out my [CV page](https://ebeth-chin.github.io/top/cv/) for more details about my skills and research experience.  
 
-Elizabeth has authored and co-authored several peer-reviewed journal articles and magazine articles, and has shared her research at various conferences through presentations and posters. Visit the publications and presentations pages for more information.
+I've authored and co-authored several peer-reviewed research papers which have appeared in the journals *Nutrition*, *Journal of Agricultural and Food Chemistry*, *Phytopathology*, and *The Journal of Nutrition*. You can see my full [list of publications here.](https://ebeth-chin.github.io/top/publications/) I've also presented my research at several conferences, [listed here](https://ebeth-chin.github.io/top/presentations/)
