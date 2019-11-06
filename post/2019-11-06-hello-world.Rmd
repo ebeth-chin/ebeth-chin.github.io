@@ -1,0 +1,17 @@
+---
+title: Hello, World!
+author: 'Elizabeth Chin'
+date: '2019-11-06'
+slug: hello-world
+categories: []
+tags: []
+subtitle: ''
+description: ''
+image: ''
+---
+
+Welcome to the web page of Elizabeth Chin!  
+
+I am currently a Research Computational Biologist Postdoc with the USDA in the lab of Danielle Lemay, where I am applying machine learning techniques to human nutrition research. You can read more [about me here.](https://ebeth-chin.github.io/top/about/) Please check out my [CV page](https://ebeth-chin.github.io/top/cv/) for more details about my skills and research experience.    
+
+I've authored and co-authored several peer-reviewed research papers which have appeared in the journals *Nutrition*, *Journal of Agricultural and Food Chemistry*, *Phytopathology*, and *The Journal of Nutrition*. You can see my full [list of publications here.](https://ebeth-chin.github.io/top/publications/) I've also presented my research at several conferences, [listed here](https://ebeth-chin.github.io/top/presentations/)   
