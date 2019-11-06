@@ -12,13 +12,14 @@
     
     
     <item>
-      <title>About Elizabeth</title>
+      <title>Hello, World!</title>
       <link>/post/about-elizabeth/</link>
       <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/about-elizabeth/</guid>
-      <description>Elizabeth is currently a Research Computational Biologist Postdoc with the USDA where she is applying machine learning techniques to understand the relationship among various clinical markers of health, the gut microbiome, dietary intake, and other lifestyle factors in a cohort of healthy US adults. She hopes to learn how these data may predict different phenotypes or metabotypes. She is working under the supervision of Dr. Danielle Lemay.
-She studied Food Science at the University of California, Davis, completing her PhD with Dr.</description>
+      <description>Welcome to the web page of Elizabeth Chin!
+I am currently a Research Computational Biologist Postdoc with the USDA in the lab of Danielle Lemay, where I am applying machine learning techniques to human nutrition research. You can read more about me here. Please check out my CV page for more details about my skills and research experience.
+I’ve authored and co-authored several peer-reviewed research papers which have appeared in the journals Nutrition, Journal of Agricultural and Food Chemistry, Phytopathology, and The Journal of Nutrition.</description>
     </item>
     
   </channel>
