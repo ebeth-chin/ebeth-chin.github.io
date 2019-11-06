@@ -1,0 +1,17 @@
+---
+title: About Elizabeth
+author: 'Elizabeth Chin'
+date: '2019-11-05'
+slug: about-elizabeth
+categories: []
+tags: []
+subtitle: ''
+description: ''
+image: ''
+---
+
+Elizabeth is currently a Research Computational Biologist Postdoc with the USDA where she is applying machine learning techniques to understand the relationship among various clinical markers of health, the gut microbiome, dietary intake, and other lifestyle factors in a cohort of healthy US adults. She hopes to learn how these data may predict different phenotypes or metabotypes. She is working under the supervision of Dr. Danielle Lemay.  
+
+She studied Food Science at the University of California, Davis, completing her PhD with Dr. Carolyn Slupsky. Her dissertation research used metabolomics (1H NMR), proteomics (MS/MS), and transcriptomics (RNA-seq) to identify metabolism changes in citrus trees infected with the bacterial pathogen associated with Citrus Greening Disease.  
+
+Elizabeth has authored and co-authored several peer-reviewed journal articles and magazine articles, and has shared her research at various conferences through presentations and posters. Visit the publications and presentations pages for more information.  

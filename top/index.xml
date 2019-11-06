@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on Elizabeth Chin, PhD</title>
+    <link>/top/</link>
+    <description>Recent content in Tops on Elizabeth Chin, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/top/about/</guid>
+      <description>Elizabeth is currently a Research Computational Biologist Postdoc with the USDA where she is applying machine learning techniques to understand the relationship among various clinical markers of health, the gut microbiome, dietary intake, and other lifestyle factors in a cohort of healthy US adults. She hopes to learn how these data may predict different phenotypes or metabotypes. She is working under the supervision of Dr. Danielle Lemay.
+She studied Food Science at the University of California, Davis, completing her PhD with Dr.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/top/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/top/presentations/</guid>
+      <description>Oral Presentations International Research Conference for Huanglongbing, Orlando, FL. March 2017, “Metabolomics, transcriptomics, and proteomics analysis of C. sinensis (L. Osbeck) trees graft-inoculated with Candidatus Liberibacter asiaticus.”
+Experimental Biology 2015, Boston, MA. May 2015, “Metabolomics for Early Detection of Huanglongbing.”
+International Research Conference for Huanglongbing, Orlando, FL. February 2015, “Early changes in host response to C. Liberibacter asiaticus measured by metabolomics.”
+International Research Conference for Huanglongbing, Orlando, FL. February 2015, “Multidisciplinary approaches for early detection of Huanglongbing.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/top/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/top/publications/</guid>
+      <description>Visit my Google Scholar site here
+Peer-Reviewed Publications Chin, E.L., Huang, L., Bouzid, Y.Y., Kirschke, C.P., Durbin-Johnson, B., Baldiviez, L.M., Bonnel, E.L., Keim, N.L., Korf, I., Stephensen, C.B., Lemay, D.G. &amp;ldquo;Association of Lactase Persistence Genotypes (rs4988235) and Ethnicity with Dairy Intake in a Healthy US Population.&amp;rdquo; Nutrients 11.8 (2019): 1860.
+Padhi, E., Maharaj, N., Lin, S., Mishchuk, D., Chin, E. L., Godfrey, K., Foster, E., Polek, M., Leveau, J., Slupsky, C.</description>
+    </item>
+    
+    <item>
+      <title>cv</title>
+      <link>/top/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/top/cv/</guid>
+      <description>Experience and Skills Data Analysis  Created training and test data sets and tested predictive performance of machine learning models to determine lactose amount from dietary recall data
+ Evaluated database matching methods to match foods between different food and nutrient databases
+ Experience with dietary intake data: determining association of lactase persistence genetics with dairy consumption from dietary data and other markers of health using a variety of statistical analyses</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Elizabeth Chin, PhD</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Elizabeth Chin, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Elizabeth</title>
+      <link>/home/about-elizabeth/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about-elizabeth/</guid>
+      <description>Elizabeth is currently a Research Computational Biologist Postdoc with the USDA where she is applying machine learning techniques to understand the relationship among various clinical markers of health, the gut microbiome, dietary intake, and other lifestyle factors in a cohort of healthy US adults. She hopes to learn how these data may predict different phenotypes or metabotypes. She is working under the supervision of Dr. Danielle Lemay.
+She studied Food Science at the University of California, Davis, completing her PhD with Dr.</description>
+    </item>
+    
+  </channel>
+</rss>
