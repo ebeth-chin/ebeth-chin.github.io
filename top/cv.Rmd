@@ -17,8 +17,9 @@ blogdown::html_page:
 
 ### Computational
 * Proficient in the statistical programming language R 
+* Regularly uses Python and Jupyter Notebooks
 * Use of shell scripting with a compute cluster (UC Davis FARM) and cloud computing servings (Amazon Web Services) for RNA-seq analysis 
-* Familiarity with Python and Jupyter Notebooks
+* Experience implementing software on Unix and HPC using SLURM submission scheduling
 * Documenting work and organizing scripts with Git/GitHub and R Markdown
 
 ### Communication
