@@ -2,40 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tops on Elizabeth Chin, PhD</title>
-    <link>/top/</link>
+    <link>https://ebeth-chin.github.io/top/</link>
     <description>Recent content in Tops on Elizabeth Chin, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/top/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://ebeth-chin.github.io/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/top/about/</link>
+      <link>https://ebeth-chin.github.io/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/top/about/</guid>
-      <description>Elizabeth is currently a Research Computational Biologist Postdoc with the USDA where she is applying machine learning techniques to understand the relationship among various clinical markers of health, the gut microbiome, dietary intake, and other lifestyle factors in a cohort of healthy US adults. She hopes to learn how these data may predict different phenotypes or metabotypes. She is working under the supervision of Dr. Danielle Lemay.
-She studied Food Science at the University of California, Davis, completing her PhD with Dr.</description>
+      <guid>https://ebeth-chin.github.io/top/about/</guid>
+      <description>Elizabeth is currently a Computational Biologist Research Associate with the USDA where she is applying artificial intelligence methods (machine learning and deep learning) techniques to support photo-based dietary data collection to reduce human study participant burden and improve accuracy of dietary data assessment. She also uses machine learning and traditional statistical methods to understand the relationship among various clinical markers of health, the gut microbiome, dietary intake, and other lifestyle factors in a cohort of healthy US adults.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/top/awards/</link>
+      <link>https://ebeth-chin.github.io/top/awards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/top/awards/</guid>
-      <description> Awards and Honors  American Society for Nutrition Postdoc Research Award Competition- 1st Place | 2021 American Society for Nutrition Emerging Leaders in Nutrition Science Abstract Recognition Award Program- Finalist | 2021 National Nutrient Databank Conference- 1st Place Young Investigator Oral Presentation Award | 2020 IC3-FOODS Poster Competition- 1st Place in Food &amp;amp; Ag | 2016 Robert Mondavi Institute Poster Competition- Second Place | 2013
- NSF Graduate Research Fellowship Program Honorable Mention | 2013 Roll Global Graduate Fellowship | 2012- 2013  </description>
+      <guid>https://ebeth-chin.github.io/top/awards/</guid>
+      <description>Awards and Honors  American Society for Nutrition Postdoc Research Award Competition- 1st Place | 2021 American Society for Nutrition Emerging Leaders in Nutrition Science Abstract Recognition Award Program- Finalist | 2021 National Nutrient Databank Conference- 1st Place Young Investigator Oral Presentation Award | 2020 IC3-FOODS Poster Competition- 1st Place in Food &amp;amp; Ag | 2016 Robert Mondavi Institute Poster Competition- Second Place | 2013 NSF Graduate Research Fellowship Program Honorable Mention | 2013 Roll Global Graduate Fellowship | 2012- 2013  </description>
     </item>
     
     <item>
       <title></title>
-      <link>/top/presentations/</link>
+      <link>https://ebeth-chin.github.io/top/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/top/presentations/</guid>
+      <guid>https://ebeth-chin.github.io/top/presentations/</guid>
       <description>Oral Presentations Nutrition 2021. Virtual Conference. June 2021, “Machine learning identifies stool pH as a predictor of bone mineral density in a healthy multi-ethnic U.S. population.”
 National Nutrient Databank Conference. Virtual Conference. November 2020, “Nutrient estimation from 24-hour food recalls using machine learning and database mapping: a case study with lactose.”
 International Research Conference for Huanglongbing, Orlando, FL. March 2017, “Metabolomics, transcriptomics, and proteomics analysis of C. sinensis (L. Osbeck) trees graft-inoculated with Candidatus Liberibacter asiaticus.</description>
@@ -43,33 +37,24 @@ International Research Conference for Huanglongbing, Orlando, FL. March 2017, �
     
     <item>
       <title></title>
-      <link>/top/publications/</link>
+      <link>https://ebeth-chin.github.io/top/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/top/publications/</guid>
-      <description>publications.utf8.md /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */ !function(a,b){&#34;object&#34;==typeof module&amp;&amp;&#34;object&#34;==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(&#34;jQuery requires a window with a document&#34;);return b(a)}:b(a)}(&#34;undefined&#34;!=typeof window?window:this,function(a,b){var c=[],d=c.slice,e=c.concat,f=c.push,g=c.indexOf,h={},i=h.toString,j=h.hasOwnProperty,k={},l=&#34;1.11.3&#34;,m=function(a,b){return new m.fn.init(a,b)},n=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,o=/^-ms-/,p=/-([\da-z])/gi,q=function(a,b){return b.toUpperCase()};m.fn=m.prototype={jquery:l,constructor:m,selector:&#34;&#34;,length:0,toArray:function(){return d.call(this)},get:function(a){return null!=a?0a?this[a+this.length]:this[a]:d.call(this)},pushStack:function(a){var b=m.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a,b){return m.each(this,a,b)},map:function(a){return this.pushStack(m.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(d.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0a?b:0);return this.pushStack(c=0&amp;&amp;bc?[this[c]]:[])},end:function(){return this.prevObject||this.constructor(null)},push:f,sort:c.sort,splice:c.splice},m.extend=m.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for(&#34;boolean&#34;==typeof g&amp;&amp;(j=g,g=arguments[h]||{},h++),&#34;object&#34;==typeof g||m.isFunction(g)||(g={}),h===i&amp;&amp;(g=this,h--);ih;h++)if(null!=(e=arguments[h]))for(d in e)a=g[d],c=e[d],g!==c&amp;&amp;(j&amp;&amp;c&amp;&amp;(m.isPlainObject(c)||(b=m.isArray(c)))?(b?(b=!1,f=a&amp;&amp;m.isArray(a)?a:[]):f=a&amp;&amp;m.isPlainObject(a)?a:{},g[d]=m.extend(j,f,c)):void 0!==c&amp;&amp;(g[d]=c));return g},m.extend({expando:&#34;jQuery&#34;+(l+Math.random()).replace(/\D/g,&#34;&#34;),isReady:!0,error:function(a){throw new Error(a)},noop:function(){},isFunction:function(a){return&#34;function&#34;===m.type(a)},isArray:Array.isArray||function(a){return&#34;array&#34;===m.type(a)},isWindow:function(a){return null!=a&amp;&amp;a==a.window},isNumeric:function(a){return!m.isArray(a)&amp;&amp;a-parseFloat(a)+1=0},isEmptyObject:function(a){var b;for(b in a)return!1;return!0},isPlainObject:function(a){var b;if(!a||&#34;object&#34;!==m.type(a)||a.nodeType||m.isWindow(a))return!1;try{if(a.constructor&amp;&amp;!j.call(a,&#34;constructor&#34;)&amp;&amp;!j.call(a.constructor.prototype,&#34;isPrototypeOf&#34;))return!1}catch(c){return!1}if(k.ownLast)for(b in a)return j.call(a,b);for(b in a);return void 0===b||j.call(a,b)},type:function(a){return null==a?a+&#34;&#34;:&#34;object&#34;==typeof a||&#34;function&#34;==typeof a?h[i.call(a)]||&#34;object&#34;:typeof a},globalEval:function(b){b&amp;&amp;m.trim(b)&amp;&amp;(a.execScript||function(b){a.eval.call(a,b)})(b)},camelCase:function(a){return a.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/top/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/top/publications/</guid>
+      <guid>https://ebeth-chin.github.io/top/publications/</guid>
       <description>Visit my Google Scholar site here
-Peer-Reviewed Publications Lemay, D.G., Baldiviez, L.M., Chin, E.L., Spearman, S.S., Cervantes, E., Woodhouse, L.R., Keim, N.L., Stephensen, C.B., Laugero, K.D., Technician-scored stool consistency spans the full range of Bristol scale in a healthy US population and differs by diet and chronic stress load. Journal of Nutrition (2021): https://doi.org/10.1093/jn/nxab019.
-Chin, E.L., Ramsey, J., Saha, S., Mishchuk, D., Chavez, J., Howe, K., Zhong, X., Flores-Gonzalez, M.</description>
+Peer-Reviewed Publications Kable, M.E., Chin, E.L., Storms, D., Lemay, D.G., Stephensen, C.B., Tree based analysis of dietary diversity captures association between fiber intake and gut microbiome composition in a healthy U.S. cohort. Journal of Nutrition. (2021, In Review).
+Chin, E.L., Van Loan, M., Spearman, S.S., Bonnel, E.L., Laugero, K.D., Stephensen, C.B., Lemay, D.G., Machine learning identifies stool pH as predictor of bone mineral density in healthy multi-ethnic U.</description>
     </item>
     
     <item>
       <title>cv</title>
-      <link>/top/cv/</link>
+      <link>https://ebeth-chin.github.io/top/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/top/cv/</guid>
-      <description>Experience and Skills Data Analysis  Created training and test data sets and tested predictive performance of machine learning models to determine lactose amount from dietary recall data
- Evaluated database matching methods to match foods between different food and nutrient databases
- Experience with dietary intake data: determining association of lactase persistence genetics with dairy consumption from dietary data and other markers of health using a variety of statistical analyses</description>
+      <guid>https://ebeth-chin.github.io/top/cv/</guid>
+      <description>Experience and Skills Data Analysis  Developing deep learning (computer vision) methods to support photo-based dietary assessment for use with human research studies
+ Collaborating on development of database of monosaccharides of foods commonly consumed by adults and for toddlers
+ Assessed utility of portable near-infrared spectrometer to distinguish between visually-similar foods  Random forest classifiers achieved 100% accuracy on test data  Collaborated on project to develop and validate computer-assisted database matching methods to match foods between different food and nutrient databases:  resulted in over 90% reduction in time to obtain food matches</description>
     </item>
     
   </channel>
